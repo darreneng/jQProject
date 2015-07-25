@@ -1,0 +1,25 @@
+#grid {
+
+}
+
+.reset {
+	
+}
+
+.square {
+	height: 5px;
+	width: 5px;
+	border: 1px black solid;
+	background-color: white;
+
+	
+}
+
+.miso {
+	background-color: blue;
+}
+
+/*
+.square:hover {
+	background-color: blue;
+} */
